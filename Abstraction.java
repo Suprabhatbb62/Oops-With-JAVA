@@ -1,5 +1,5 @@
 // Animal -> Human  : When human's obj created, 1st Parent's constractor called then it's own
-// Animal -> Cat
+// Animal -> Cat    t
 public class Abstraction {
     public static void main(String[] args) {
         Cat c = new Cat();
